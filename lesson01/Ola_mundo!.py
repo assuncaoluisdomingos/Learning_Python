@@ -1,1 +1,1 @@
-print('Olá_mundo!')
+print('Olá_mundo!') # iniciando uma jornada  
