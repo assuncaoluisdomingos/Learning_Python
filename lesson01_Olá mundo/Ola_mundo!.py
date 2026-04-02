@@ -1,1 +1,2 @@
-print('Olá_mundo!') # iniciando uma jornada  
+# iniciando minha  jornada Python 
+print('Olá_mundo!') 
